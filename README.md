@@ -4,4 +4,8 @@ A collection of resources, code and slides needed to pass the Microsoft Azure AI
 Helpful resources:
 * https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer
 * https://github.com/microsoftlearning/mslearn-ai-studio
+* https://microsoft.github.io/promptflow/index.html
+* https://github.com/microsoft/promptflow
+* https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow?view=azureml-api-2
+* https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/prompt-flow?view=foundry-classic
   
