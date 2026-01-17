@@ -52,6 +52,7 @@ def main():
                         model = model_deployment,
                         messages = prompt
             )
+    
             completion = response.choices[0].message.content
             print(completion)
 
