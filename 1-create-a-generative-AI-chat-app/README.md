@@ -4,8 +4,10 @@ In this exercise, you use the Microsoft Foundry Python SDK to create a simple ch
 Helpful Resource:
 * https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/02a-AI-foundry-sdk.html
 
-Sample Conversation:
+Sample Conversation: 
+
 ```python3 chat-app.py```
+
 Enter the prompt (or type 'quit' to exit): Hi
 Hello! How can I assist you today?
 Enter the prompt (or type 'quit' to exit): Who are you?
